@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+.tudo{font-family: Arial;}
+.preco{font-size: 15; font-weight: bold }
+.precocima{font-size: 11}
+.titulo{font-size: 25}
+.descricao{font-size: 15}
+.sobre{font-size: 25}
+.sobredesc{font-size: 15}
+.contatos{font-size: 25}
+.contato{font-size: 15}
+.esq{width: 50%}
+.dir{width: 50%}
+
+#todosite{
+	display:block ;
+  	justify-content: center;
+  	align-items: center;
+}
